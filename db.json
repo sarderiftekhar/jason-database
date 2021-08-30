@@ -7,7 +7,7 @@
             "description":"Find your new feline friends at this event",
             "location":"This town",
             "date":"25th December 2021",
-            "time": 12:00,
+            "time": "12:00",
             "petsAllowed":true,
             "organizer": "Kat Laydee"
         },
