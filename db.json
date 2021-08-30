@@ -9,7 +9,6 @@
             "location":"This town",
             "date":"25th December 2021",
             "time": "12:00",
-            "petsAllowed":true,
             "organizer": "Kat Laydee"
         },
         {
@@ -20,7 +19,6 @@
             "location":"This town",
             "date":"26th August 2021",
             "time": "11:00",
-            "petsAllowed":true,
             "organizer":"Kat Laydee"
         },
         {
@@ -31,7 +29,6 @@
             "location":"This town",
             "date":"6th April 2021",
             "time": "9:00",
-            "petsAllowed":true,
             "organizer":"Kat Laydee"
         }
     ]
