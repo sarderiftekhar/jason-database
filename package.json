@@ -1,0 +1,22 @@
+{
+  "name": "json-database",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarderiftekhar/json-database.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarderiftekhar/json-database/issues"
+  },
+  "homepage": "https://github.com/sarderiftekhar/json-database#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
